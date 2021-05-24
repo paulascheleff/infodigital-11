@@ -29,6 +29,10 @@ h4{
 h5{
   font-size:1rem;
   color:silver;
+  
+section.intro .cover {
+    height: 70vw;
+  
 }
 section{margin:20px 0;z-index:1}.device,.mobile{display:none!important}.fullContent{width:100%}button,input,select,textarea{outline:0}select{border:0;border:1px solid #000;border-radius:0;background-image:url(../svg/select.svg);background-size:20px;background-position:95% center;-webkit-appearance:none;-moz-appearance:none;appearance:none;width:200px;user-select:none}.moreGraphics ul li a
 section.intro p{position:relative}
