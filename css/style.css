@@ -83,7 +83,3 @@ section.intro .cover{background-size:cover;background-position:center;background
 #cover ul .st0{left: 0px;background-image: url(img/section_0.png);}
 #cover ul .st1{left: 1100px;background-image: url(img/section_1.png);}
 #cover ul .st2{left: -1100px;background-image: url(img/section_2.png);}
-
-header{
-  padding-top:70vw
-}
