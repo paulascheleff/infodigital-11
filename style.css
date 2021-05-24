@@ -46,8 +46,8 @@ section{margin:20px 0;z-index:1}.device,.mobile{display:none!important}.fullCont
     background-position: center;
     background-size: cover;
 }
-#cover .back{background-image: url(../img/layers_back.png);}
-#cover .over{background-image: url(../img/layers_top.png);}
+#cover .back{background-image: url(img/layers_back.png);}
+#cover .over{background-image: url(img/layers_top.png);}
 #cover ul{
     position: absolute;
     -webkit-transform-origin: 0 0;
@@ -75,6 +75,6 @@ section{margin:20px 0;z-index:1}.device,.mobile{display:none!important}.fullCont
 }
 #cover ul li.lg{opacity: 0;}
 
-#cover ul .st0{left: 0px;background-image: url(../img/section_0_lg.png);}
-#cover ul .st1{left: 1100px;background-image: url(../img/section_1_lg.png);}
-#cover ul .st2{left: -1100px;background-image: url(../img/section_2_lg.png);}
+#cover ul .st0{left: 0px;background-image: url(img/section_0_lg.png);}
+#cover ul .st1{left: 1100px;background-image: url(img/section_1_lg.png);}
+#cover ul .st2{left: -1100px;background-image: url(img/section_2_lg.png);}
