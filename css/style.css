@@ -51,7 +51,7 @@ section.intro .cover{background-size:cover;background-position:center;background
     background-position: center;
     background-size: cover;
 }
-#cover .back{background-image: url(img/layers_back.jpeg);}
+#cover .back{background-image: url(img/layers_back.png);}
 #cover .over{background-image: url(img/layers_top.png);}
 #cover ul{
     position: absolute;
