@@ -8,7 +8,7 @@ var paginate = {
 
 	start: function(event) {
 		activeProductImages = $(this).find('img[data-pressure-point]');
-	},
+	}
 
 	change: function(force, event) {
 
