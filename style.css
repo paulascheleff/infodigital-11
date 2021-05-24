@@ -78,3 +78,7 @@ section{margin:20px 0;z-index:1}.device,.mobile{display:none!important}.fullCont
 #cover ul .st0{left: 0px;background-image: url(img/section_0_lg.png);}
 #cover ul .st1{left: 1100px;background-image: url(img/section_1_lg.png);}
 #cover ul .st2{left: -1100px;background-image: url(img/section_2_lg.png);}
+
+header{
+  padding-top:70vw
+}
