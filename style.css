@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Roboto:wght@400;700&display=swap');
 
 body{
-  background:rgb(17,12,16);
+  background:black;
   color:white;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -51,8 +51,8 @@ section.intro .cover{background-size:cover;background-position:center;background
     background-position: center;
     background-size: cover;
 }
-#cover .back{background-image: url(img/layers_atrás.png);}
-#cover .over{background-image: url(img/layers_encima.png);}
+#cover .back{background-image: url(img/layers_back.png);}
+#cover .over{background-image: url(img/layers_top.png);}
 #cover ul{
     position: absolute;
     -webkit-transform-origin: 0 0;
@@ -80,6 +80,6 @@ section.intro .cover{background-size:cover;background-position:center;background
 }
 #cover ul li.lg{opacity: 0;}
 
-#cover ul .st0{left: 0px;background-image: url(img/section_0g.png);}
-#cover ul .st1{left: 1100px;background-image: url(img/section_1.png);}
-#cover ul .st2{left: -1100px;background-image: url(img/section_2.png);}
+#cover ul .st0{left: 0px;background-image: url(img/section_0_lg.png);}
+#cover ul .st1{left: 1100px;background-image: url(img/section_1_lg.png);}
+#cover ul .st2{left: -1100px;background-image: url(img/section_2_lg.png);}
