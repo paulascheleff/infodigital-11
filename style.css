@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Roboto:wght@400;700&display=swap');
 
 body{
-  background:black;
-  color:white;
+  background:rgb(17,12,16);
+   color:white;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
